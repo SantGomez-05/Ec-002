@@ -1,0 +1,21 @@
+button{
+    top: 396px;
+    left: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+    background-image: url(./assets/heart-icon.png);
+    background-color: white;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+}
+
+h1{
+    top: 424px;
+    left: 65px;
+    position: absolute;
+    font-size: 8px;
+}
+
